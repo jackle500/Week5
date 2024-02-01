@@ -1,0 +1,17 @@
+{
+  "name": "jackle500/328/Application",
+  "description": "My Job Application",
+  "authors": [
+    {
+      "name": "Huy Le",
+      "email": "huy.le@greenriver.edu"
+    },
+    {
+      "name": "Bruce Banner",
+      "email":"mrbatman@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
